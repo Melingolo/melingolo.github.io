@@ -1,0 +1,30 @@
+
+
+body {
+    margin: 0;
+}
+
+.workspace{
+  padding: 30px;
+}
+
+ #panel{
+     border:2px solid grey;
+     background-color: lightgrey;
+}
+
+
+ #wlp{
+  border-radius: 30px;
+  /* padding: 20px; */
+  width: 500px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0);
+}
+
+.link{
+
+}
+
+.link:hover #wlp{
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
