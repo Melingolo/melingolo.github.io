@@ -9,8 +9,8 @@ body {
 }
 
  #panel{
-     border:2px solid grey;
-     background-color: lightgrey;
+     border:2px solid rgb(34, 0, 255);
+     background-color: rgb(185, 244, 247);
 }
 
 
@@ -18,7 +18,7 @@ body {
   border-radius: 30px;
   /* padding: 20px; */
   width: 500px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0);
+  box-shadow: 0px 8px 16px 0px rgba(63, 40, 120, 0.2);
 }
 
 .link{
@@ -26,5 +26,5 @@ body {
 }
 
 .link:hover #wlp{
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 8px 16px 0px rgba(63, 40, 120, 0.2);
 }
